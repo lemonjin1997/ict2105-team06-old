@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project_View</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textViewProfileName">Name</string>
+    <string name="textViewProfileGender">Gender</string>
+    <string name="radioButtonProfileGenderMale">Male</string>
+    <string name="radioButtonProfileGenderFemale">Female</string>
+    <string name="textViewProfileAge">Age</string>
+    <string name="textViewProfileDisability">Disability</string>
+    <string name="title_activity_feedback">Feedback</string>
+
+    <string name="textViewFeedbackFeedback">Feedback</string>
+    <string name="textViewFeedbackImage">Feedback Image</string>
+    <string name="buttonFeedbackUploadImage">Upload Image</string>
+
+</resources>
